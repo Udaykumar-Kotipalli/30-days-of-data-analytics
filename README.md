@@ -10,11 +10,11 @@
 
 | Day | Project | Tools | Status |
 |---:|---|---|---|
-| 01 | [Retail Sales Analysis](https://github.com/YOUR-USERNAME/day-01-retail-sales-analysis) | Python, Pandas | ✅ Completed |
-| 02 | [Excel Sales Dashboard](https://github.com/YOUR-USERNAME/day-02-excel-sales-analysis) | Microsoft Excel | ✅ Completed |
-| 03 | [SQL Business Analysis](https://github.com/YOUR-USERNAME/day-03-sql-business-analysis) | SQL, SQLite | ✅ Completed |
-| 04 | [Python Data Cleaning](https://github.com/YOUR-USERNAME/day-04-python-data-cleaning) | Python, Pandas, NumPy | ✅ Completed |
-| 05 | [Retail Sales Exploratory Data Analysis](https://github.com/YOUR-USERNAME/day-05-python-eda-retail-sales) | Python, Pandas, Matplotlib, Seaborn | ✅ Completed |
+| 01 | [Retail Sales Analysis](https://github.com/Udaykumar-Kotipalli/day-01-retail-sales-analysis) | Python, Pandas | ✅ Completed |
+| 02 | [Excel Sales Dashboard](https://github.com/Udaykumar-Kotipalli/day-02-excel-sales-analysis) | Microsoft Excel | ✅ Completed |
+| 03 | [SQL Business Analysis](https://github.com/Udaykumar-Kotipalli/day-03-sql-business-analysis) | SQL, SQLite | ✅ Completed |
+| 04 | [Python Data Cleaning](https://github.com/Udaykumar-Kotipalli/day-04-python-data-cleaning) | Python, Pandas, NumPy | ✅ Completed |
+| 05 | [Retail Sales Exploratory Data Analysis](https://github.com/Udaykumar-Kotipalli/day-05-python-eda-retail-sales) | Python, Pandas, Matplotlib, Seaborn | ✅ Completed |
 | 06 | Upcoming Project | To be decided | ⬜ Planned |
 | 07 | Upcoming Project | To be decided | ⬜ Planned |
 | 08 | Upcoming Project | To be decided | ⬜ Planned |
